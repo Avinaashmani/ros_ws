@@ -3,7 +3,6 @@
 import rospy
 from std_msgs.msg import String
 
-
 class ROS_TEM:
 
     def __init__(self):
