@@ -1,0 +1,6 @@
+devel_space: /home/avinaash/ros_ws/devel
+install: false
+install_space: /home/avinaash/ros_ws/install
+profile: default
+source_space: /home/avinaash/ros_ws/src
+workspace: /home/avinaash/ros_ws
