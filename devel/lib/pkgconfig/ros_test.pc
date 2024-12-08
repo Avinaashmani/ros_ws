@@ -1,0 +1,1 @@
+/home/avinaash/ros_ws/devel/.private/ros_test/lib/pkgconfig/ros_test.pc
